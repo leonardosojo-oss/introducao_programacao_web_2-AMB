@@ -1,0 +1,19 @@
+.botao{
+    width: 200px;
+    height: 100px;
+    box-sizing: border-box;
+    border-radius: 50px;
+    background-color: rgb(156, 222, 255);
+    color: rgb(0, 0, 0);
+    border-color: rgb(255, 255, 255);
+    font-size: 80%;
+
+}
+ body{
+    background-color:rgb(255, 255, 255)
+
+}
+
+img{
+    width: 200px;
+}
