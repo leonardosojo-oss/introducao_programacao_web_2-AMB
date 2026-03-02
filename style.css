@@ -10,10 +10,26 @@
 
 }
  body{
-    background-color:rgb(255, 255, 255)
+    background-color:rgb(0, 0, 0); /*Muda a cor de fundo*/
+    color:aliceblue; /*Muda a cor da letra*/
+    justify-content: space-around; /*cia espaço igual en1*/
+    margin-top: 150px ; /*define a margem do topo*/
 
 }
 
 img{
     width: 200px;
+
+}
+
+
+
+hi{
+    font-size: 32px; /*altera tamanho da fonte*/
+
+}
+
+span{ 
+    color: black;
+
 }
